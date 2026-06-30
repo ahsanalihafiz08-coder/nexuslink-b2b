@@ -1,0 +1,6 @@
+{
+  "name": "NexusLink B2B",
+  "description": "An international B2B Sourcing and Customs Compliance Agent helping buyers source components, estimate live USD costs, and track customs requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
